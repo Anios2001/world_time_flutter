@@ -1,6 +1,7 @@
 # world_time
 
-A new Flutter application.
+A new Flutter application.I used Dart as a programming language for this. Dart makes it easy to write efficient Object oriented code. The efficiency and simplicity of using dart and flutter is displayed in this project.
+This porject can help people to know the time in different time zones. 
 
 ## Getting Started
 
